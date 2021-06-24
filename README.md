@@ -29,8 +29,5 @@ COVID-19 images used in training are from https://github.com/ieee8023/covid-ches
 Dataset: Chest X-Ray Images (Pneumonia), https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 It has two types of X-Ray images Normal and Pneumonia but only normal X-Rays have been used from this dataset so that Model learns to identify Covid-19 cases.
 
-## Contributers:
 
-1)B. Praveen Nayak   praveennayakbalaji@gmail.com
-2)Dhruv Varshney     dhruvvarshney2612@gmail.com
-3)LIkhith B           likhithlekhan@gmail.com
+
